@@ -30,7 +30,7 @@ For the moment, nothing.
 
 = 0.2 =
 * Code cleanup.
-* Instagram Client ID now a setting.
+* Flickr Client ID now a setting.
 
 = 0.1 =
 * Basic bare-bones plugin.
